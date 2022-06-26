@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Ivelin 
 - 👀 I’m interested in Web Development (front-end and back-end)
-- 🌱 I’m currently learning HTML/CSS and JavaScipt
+- 🌱 I’m currently learning HTML/CSS and JavaScript
 - 💞️ I’m open for colaboration
 - 📫 Gmail: iveliniliev795@gmail.com 
 
